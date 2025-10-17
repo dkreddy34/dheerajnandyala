@@ -19,8 +19,6 @@ I’m a passionate **Data Engineer** who loves solving business challenges throu
 Currently pursuing my **M.S. in Business Analytics & Information Management** at the **University of Delaware**, I’m focused on mastering modern data architectures that integrate automation, governance, and analytics at scale.  
 
 ---
----
-
 ### 🧠 Technical Skills
 **Languages:** Python, R, SQL, DAX, SAS  
 **Data Tools:** Apache NiFi, Airflow, dbt-core, Superset, Delta Lake, Trino, OpenMetadata  
@@ -28,7 +26,6 @@ Currently pursuing my **M.S. in Business Analytics & Information Management** at
 **Visualization:** Power BI, Tableau, Excel  
 **Version Control & DevOps:** Git, Docker, VS Code, JetBrains IDEs  
 **ETL & Data Integration:** Talend, PL/SQL scripting, automated ingestion and transformation pipelines  
-
 ---
 ###  Professional Experience
 
