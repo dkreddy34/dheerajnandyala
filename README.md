@@ -19,7 +19,7 @@ I’m a passionate **Data Engineer** who loves solving business challenges throu
 Currently pursuing my **M.S. in Business Analytics & Information Management** at the **University of Delaware**, I’m focused on mastering modern data architectures that integrate automation, governance, and analytics at scale.  
 
 ---
-### 🧠 Technical Skills
+###  Technical Skills
 **Languages:** Python, R, SQL, DAX, SAS  
 **Data Tools:** Apache NiFi, Airflow, dbt-core, Superset, Delta Lake, Trino, OpenMetadata  
 **Databases / Cloud:** PostgreSQL, SQL Server, Oracle, MySQL, AWS (S3, EC2)  
@@ -70,7 +70,7 @@ Analyzed national vehicle sales data using **PROC SQL** and **PROC GPLOT** to id
 
 ---
 
-### 🏆 Certifications
+###  Certifications
 - **Talend Data Integration Certified Developer** — *Talend* (Certificate #24312598)
 
 ---
