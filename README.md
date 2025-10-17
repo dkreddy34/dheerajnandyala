@@ -19,7 +19,17 @@ I’m a passionate **Data Engineer** who loves solving business challenges throu
 Currently pursuing my **M.S. in Business Analytics & Information Management** at the **University of Delaware**, I’m focused on mastering modern data architectures that integrate automation, governance, and analytics at scale.  
 
 ---
+---
 
+### 🧠 Technical Skills
+**Languages:** Python, R, SQL, DAX, SAS  
+**Data Tools:** Apache NiFi, Airflow, dbt-core, Superset, Delta Lake, Trino, OpenMetadata  
+**Databases / Cloud:** PostgreSQL, SQL Server, Oracle, MySQL, AWS (S3, EC2)  
+**Visualization:** Power BI, Tableau, Excel  
+**Version Control & DevOps:** Git, Docker, VS Code, JetBrains IDEs  
+**ETL & Data Integration:** Talend, PL/SQL scripting, automated ingestion and transformation pipelines  
+
+---
 ###  Professional Experience
 
 #### **Business Intelligence Intern — LOGIS (State of Minnesota)**  
@@ -49,8 +59,8 @@ Currently pursuing my **M.S. in Business Analytics & Information Management** at
 ###  Highlighted Projects
 
 **🔹 [Retail Sales Analysis](https://github.com/dkreddy34/Retail_Sales_Analysis)**  
-Built a full **Power BI dashboard** using data modeled in **PostgreSQL** from the *Online Retail II dataset*.  
-Performed data cleaning, KPI tracking, and **geospatial & product-level analysis** for business insights.  
+Designed and implemented an **end-to-end ETL pipeline** using **PostgreSQL** and **Python** to extract, clean, and transform data from the *Online Retail II dataset*. 
+Built a data model and connected it to **Power BI** to visualize **sales trends, product performance, and geospatial insights**, enabling data-driven retail decision-making.    
 
 **🔹 COVID-19 Outcome Analysis (R Studio)**  
 Used statistical hypothesis testing to analyze how age and gender impact COVID-19 recovery outcomes.  
