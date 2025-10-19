@@ -17,7 +17,7 @@ Hands-on with **Apache NiFi, SQL, Power BI, and AWS**, I focus on transforming r
 I’m a passionate **Data Engineer** who loves solving business challenges through data-driven systems. I specialize in **automating pipelines, optimizing data models**, and **delivering actionable insights** through BI tools.  
 
 Currently pursuing my **M.S. in Business Analytics & Information Management** at the **University of Delaware**, I’m focused on mastering modern data architectures that integrate automation, governance, and analytics at scale.  
-
+---
 ---
 ###  Technical Skills
 **Languages:** Python, R, SQL, DAX, SAS  
